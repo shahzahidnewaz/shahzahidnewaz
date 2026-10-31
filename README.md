@@ -1,68 +1,20 @@
-# Hi there, I'm Shah Md. Zahid Newaz 👋
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-Welcome to my GitHub profile. I'm a **Software Quality Assurance (SQA) Engineer** currently transitioning towards SDET. With a strong focus on software quality, I specialize in identifying issues and ensuring products are functional, reliable, and high-performing. I aim to contribute to dependable software through effective testing and continuous improvement.
+# Hi there, I'm Zahid Newaz 👋
 
-## Skills & Expertise
 
-* **Testing Tools:** Postman, Newman, VS Code, Excel
-* **Testing Types:** Manual Testing, Functional Testing, Regression Testing, API Testing
-* **API Testing:** Request validation, response validation, positive and negative testing
-* **Programming Knowledge:** JavaScript, Node.js, SQL
-* **Automation:** API test automation using Mocha, Chai, and Axios
-* **Database:** MySQL, CRUD operations, database relationships
-* **Defect Management:** Identifying issues, reporting bugs, and validating fixes
-* **Development Knowledge:** Backend fundamentals, REST APIs, Express.js, MVC-style architecture
+I am a full-stack SQA and software test automation engineer, skilled in building web applications, testing APIs and UIs, writing automated tests, and finding software defects. I use AI tools to debug faster, understand code, and design better test scenarios.
 
-## Experience & Projects
+## 📫 Connect With Me
 
-I have hands-on experience working on software testing and development projects, including:
-
-### dMoney API Integration Testing
-
-* Performed manual functional and API testing for a Mobile Financial Service (MFS) platform
-* Tested user registration, activation, OTP-based login, deposits, send money, cashout, merchant payments, and balance checks
-* Tested different user roles including Admin, System, Agent, Customer, and Merchant
-* Performed positive and negative API test scenarios
-* Automated API testing using **Mocha, Chai, and Axios**
-* Generated API test reports using **Newman**
-
-### BlogDB — Console-Based Blog Management System
-
-* Developed a console-based blog management system using **Node.js and MySQL**
-* Implemented user registration and login functionality
-* Developed CRUD operations for blog management
-* Implemented role-based access and admin user management
-* Used password hashing, parameterized SQL queries, and foreign key relationships
-* Followed a structured **MVC-style architecture**
-
-## Current Focus
-
-I'm currently enhancing my expertise in:
-
-* API Test Automation
-* Advanced Manual Testing Techniques
-* Backend API Development
-* JavaScript and Node.js
-* SQL and Database Testing
-* Test Automation Frameworks
-* System Design and Software Architecture
-
-## My Work
-
-* API testing and automation projects
-* Manual testing and functional test scenarios
-* API validation and integration testing
-* Backend and database learning projects
-* Exploring tools and practices that improve software quality
-
-## Interests
-
-Beyond testing, I'm passionate about learning new technologies, understanding how backend systems work, exploring system design, and improving software quality practices.
-
-I believe that a good SQA Engineer should not only find bugs but also understand **why they happen and how software can be improved to prevent them**.
-
-## Let's Connect
-
-* 💼 **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/zahid-newaz/)]
-* 📧 **Email:** [shahzahidnewaz@gmail.com]
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahid-newaz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahzahidnewaz@gmail.com)
